@@ -26,6 +26,7 @@
 		<div id="content">
 			<?php echo $this->content(); ?>
 		</div>
+        <h2>Other things</h2>
 	</div>
 </body>
 </html>
